@@ -1,0 +1,5 @@
+ftp.81bridge.sub.jp
+ID:sub.jp-81bridge
+PWD:3b83U1v8QXM8fSkm
+
+http://81bridge.sub.jp/
